@@ -6,20 +6,6 @@ To win Monopoly, players eliminate opponents by forcing them into bankruptcy. In
 
 Additionally, players would be able to choose one specific move trait that determines how they move around the game board (i.e. perpendicularly, diagonally or in an L-shape). The PyPoly's game board will be an n x n collection of grids where n is an arbitrary integer.
 
-5 x 5 Game Board Example
-
- +---+---+---+---+---+
- |   |   |   |   |   |
- +---+---+---+---+---+
- |   |   |   |   |   |
- +---+---+---+---+---+
- |   |   |   |   |   |
- +---+---+---+---+---+
- |   |   |   |   |   |
- +---+---+---+---+---+
- |   |   |   |   |   |
- +---+---+---+---+---+
-
 The rules for PyPoly are:
 
 - At the start of the game, all players will be randomly stationed on the board.
